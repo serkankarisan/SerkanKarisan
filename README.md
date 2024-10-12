@@ -81,6 +81,10 @@
         <img src="https://raw.githubusercontent.com/serkankarisan/icons/refs/heads/main/chartjs-logo.svg" alt="chartjs"
             class="icon" width="35" />
     </a>
+    <a href="https://echarts.apache.org/en" target="_blank" rel="noreferrer" class="icon-button">
+        <img src="https://raw.githubusercontent.com/serkankarisan/icons/refs/heads/main/apache-echarts.svg" alt="echarts"
+            class="icon" width="35" />
+    </a>
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" class="icon-button">
         <img src="https://raw.githubusercontent.com/serkankarisan/icons/refs/heads/main/arduino.svg" alt="arduino"
             class="icon" width="35" />
