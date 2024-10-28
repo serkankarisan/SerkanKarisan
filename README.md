@@ -20,75 +20,75 @@
 ### 🛠️ Languages and Tools:
 
 <div class="icons-div">
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" class="icon-button">
+    <button href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" class="icon-button">
         <img src="https://raw.githubusercontent.com/serkankarisan/icons/refs/heads/main/csharp-original.svg"
             alt="csharp" class="icon" width="35" />
-    </a>
-    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer" class="icon-button">
+    </button>
+    <button href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer" class="icon-button">
         <img src="https://raw.githubusercontent.com/serkankarisan/icons/refs/heads/main/dot-net-original-wordmark.svg"
             alt="dotnet" class="icon" width="35" />
-    </a>
-    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer" class="icon-button">
+    </button>
+    <button href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer" class="icon-button">
         <img src="https://raw.githubusercontent.com/serkankarisan/icons/refs/heads/main/dot-net-core.svg"
             alt="dotnetcore" class="icon" width="35" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"
+    </button>
+    <button href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"
         class="icon-button">
         <img src="https://raw.githubusercontent.com/serkankarisan/icons/refs/heads/main/javascript-original.svg"
             alt="javascript" class="icon" width="35" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" class="icon-button">
+    </button>
+    <button href="https://git-scm.com/" target="_blank" rel="noreferrer" class="icon-button">
         <img src="https://raw.githubusercontent.com/serkankarisan/icons/refs/heads/main/git-scm-icon.svg" alt="git"
             class="icon" width="35" />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" class="icon-button">
+    </button>
+    <button href="https://www.w3.org/html/" target="_blank" rel="noreferrer" class="icon-button">
         <img src="https://raw.githubusercontent.com/serkankarisan/icons/refs/heads/main/html5-original-wordmark.svg"
             alt="html5" class="icon" width="35" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" class="icon-button">
+    </button>
+    <button href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" class="icon-button">
         <img src="https://raw.githubusercontent.com/serkankarisan/icons/refs/heads/main/css3-original-wordmark.svg"
             alt="css3" class="icon" width="35" />
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" class="icon-button">
+    </button>
+    <button href="https://getbootstrap.com" target="_blank" rel="noreferrer" class="icon-button">
         <img src="https://raw.githubusercontent.com/serkankarisan/icons/refs/heads/main/bootstrap_logo.svg"
             alt="bootstrap" class="icon" width="35" />
-    </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" class="icon-button">
+    </button>
+    <button href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" class="icon-button">
         <img src="https://raw.githubusercontent.com/serkankarisan/icons/refs/heads/main/microsoft-sql-server-logo.svg"
             alt="mssql" class="icon" width="35" />
-    </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer" class="icon-button">
+    </button>
+    <button href="https://postman.com" target="_blank" rel="noreferrer" class="icon-button">
         <img src="https://raw.githubusercontent.com/serkankarisan/icons/refs/heads/main//getpostman-icon.svg"
             alt="postman" class="icon" width="35" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer" class="icon-button">
+    </button>
+    <button href="https://reactjs.org/" target="_blank" rel="noreferrer" class="icon-button">
         <img src="https://raw.githubusercontent.com/serkankarisan/icons/refs/heads/main/react-original-wordmark.svg"
             alt="react" class="icon" width="35" />
-    </a>
-    <a href="https://redis.io" target="_blank" rel="noreferrer" class="icon-button">
+    </button>
+    <button href="https://redis.io" target="_blank" rel="noreferrer" class="icon-button">
         <img src="https://raw.githubusercontent.com/serkankarisan/icons/refs/heads/main/redis-original-wordmark.svg"
             alt="redis" class="icon" width="35" />
-    </a>
-    <a href="https://nodejs.org/docs/latest/api/" target="_blank" rel="noreferrer" class="icon-button">
+    </button>
+    <button href="https://nodejs.org/docs/latest/api/" target="_blank" rel="noreferrer" class="icon-button">
         <img src="https://raw.githubusercontent.com/serkankarisan/icons/refs/heads/main/nodejs-logo.svg" alt="nodejs"
             class="icon" width="35" />
-    </a>
-    <a href="https://canvasjs.com" target="_blank" rel="noreferrer" class="icon-button">
+    </button>
+    <button href="https://canvasjs.com" target="_blank" rel="noreferrer" class="icon-button">
         <img src="https://raw.githubusercontent.com/serkankarisan/icons/refs/heads/main/canvasjs-charts.svg"
             alt="canvasjs" class="icon" width="35" />
-    </a>
-    <a href="https://www.chartjs.org" target="_blank" rel="noreferrer" class="icon-button">
+    </button>
+    <button href="https://www.chartjs.org" target="_blank" rel="noreferrer" class="icon-button">
         <img src="https://raw.githubusercontent.com/serkankarisan/icons/refs/heads/main/chartjs-logo.svg" alt="chartjs"
             class="icon" width="35" />
-    </a>
-    <a href="https://echarts.apache.org/en" target="_blank" rel="noreferrer" class="icon-button">
+    </button>
+    <button href="https://echarts.apache.org/en" target="_blank" rel="noreferrer" class="icon-button">
         <img src="https://raw.githubusercontent.com/serkankarisan/icons/refs/heads/main/apache-echarts.svg" alt="echarts"
             class="icon" width="35" />
-    </a>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" class="icon-button">
+    </button>
+    <button href="https://www.arduino.cc/" target="_blank" rel="noreferrer" class="icon-button">
         <img src="https://raw.githubusercontent.com/serkankarisan/icons/refs/heads/main/arduino.svg" alt="arduino"
             class="icon" width="35" />
-    </a>
+    </button>
 </div>
 
 ---
