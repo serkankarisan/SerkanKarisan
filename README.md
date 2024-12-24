@@ -15,6 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serkan-kari%C5%9Fan-692598148/)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17367160)
 
+![Profil Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=serkankarisan&color=green)
 ---
 
 ### 🛠️ Languages and Tools:
@@ -93,4 +94,10 @@
 
 ---
 
+![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=serkankarisan&layout=compact&langs_count=10&theme=dark)
+
+---
+
 You can find more of my work on [my GitHub profile](https://github.com/serkankarisan).
+
+
