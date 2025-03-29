@@ -2,8 +2,8 @@
 
 ### A passionate developer in Turkey
 
-- 🔭 I’m currently working on **PRO4 IoT Platform**
-- 🌱 I’m currently learning **.Net Core, ReactJs**
+- 🔭 I’m currently working on **Warehouse Management System Project**
+- 🌱 I’m currently learning **React Native**
 - 💬 Ask me about **Frontend techs, Backend techs**
 - 📫 How to reach me **karisanserkan@gmail.com**
 
